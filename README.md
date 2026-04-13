@@ -11,11 +11,7 @@ Eu sou Reinaldo Abreu, Desenvolvedor Web | Front-end Criando interfaces modernas
 <h2>connect with me</h2>
 <a href="linkedin.com/in/reinaldo-abreu-dos-santos-1453a63b6"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/da290410-0de4-4359-b9cb-9374b84d1aaa" /></a> <a href="https://www.instagram.com/reynaldurei90?igsh=dWpzNWhndmwwZDR6&utm_source=qr"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fd433cae-9f3c-473d-994e-332f80a67f6e" /></a> <a href="https://www.facebook.com/share/1GP8bVW7Nh/?mibextid=wwXIfr"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/66a3da2f-3b2b-40b6-98d2-e21380339d94" /></a>
 
-<br>
 
-
-
-[![Reynaldu stats](https://github-readme-stats.vercel.app/api?username=Reynaldu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
